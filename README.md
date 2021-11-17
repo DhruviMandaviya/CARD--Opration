@@ -1,1 +1,1 @@
-# CARD--Opration
+# CARD-Opration on RecyclerView without using sqlLIT
